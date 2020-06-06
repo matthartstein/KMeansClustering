@@ -1,0 +1,641 @@
+DATE,TEAM,NAME,POSITION,CASE,CATEGORY
+3/27/2017,SEA,Trevone Boykin,QB,Arrested,Alcohol
+3/26/2017,CHI,Deiondre Hall,CB,Arrested,Alcohol
+3/26/2017,GB,Makinton Dorleant,CB,Arrested,Alcohol
+3/7/2017,KC,Demetrius Harris,TE,Arrested,Alcohol
+3/5/2017,LAR,Ethan Westbrooks,DT,Arrested,Alcohol
+2/25/2017,IND,David Parry,DT,Arrested,Alcohol
+2/25/2017,BAL,Matt Elam,S,Arrested,Alcohol
+2/16/2017,NYJ,Darrelle Revis,CB,Charged,Alcohol
+2/16/2017,LAC,King Dunlap,OT,Arrested,Alcohol
+1/12/2017,GB,Sam Shields,CB,Charged,Alcohol
+1/10/2017,LAR,Tre Mason,RB,Arrested,Alcohol
+1/2/2017,CIN,Adam Jones,CB,Arrested,Alcohol
+12/17/2016,SEA,Damontre Moore,DE,Arrested,Alcohol
+12/12/2016,ARI,Michael Floyd,WR,Arrested,Alcohol
+11/29/2016,MIA,Leon Orr,DT,Arrested,Alcohol
+11/19/2016,LAR,Troy Hill,CB,Arrested,Alcohol
+11/1/2016,PHI,Josh Huff,WR,Arrested,Alcohol
+10/12/2016,MIN,Isame Faciane,OG,Arrested,Alcohol
+10/2/2016,PHI,Nigel Bradham,LB,Arrested,Alcohol
+9/26/2016,CLE,Alvin Bailey,OG,Arrested,Alcohol
+9/16/2016,TB,Austin Seferian-Jenkins,TE,Arrested,Alcohol
+9/5/2016,SF,Bruce Miller,TE,Arrested,Animal abuse
+7/25/2016,PHI,Jonathan Williams,LB,Arrested,Animal abuse
+7/14/2016,BUF,Robert Turbin,RB,Arrested,Animal abuse
+7/8/2016,IND,Dan Skuta,RB,Arrested,Animal abuse
+6/19/2016,JAC,Cody Latimer,LB,Arrested,Animal cruelty
+5/30/2016,DEN,T.J. McDonald,WR,Arrested,Animal cruelty
+5/10/2016,LAR,Cameron Artis-Payne,S,Arrested,Animal neglect
+4/24/2016,CAR,Damian Swann,RB,Arrested,Assault
+3/18/2016,NO,Terrell Suggs,CB,Arrested,Assault
+3/5/2016,LAR,Jaelen Strong,RB,Arrested,Assault
+3/4/2016,BAL,Jonathan Newsome,LB,Arrested,Assault
+2/28/2016,HOU,Shiloh Keo,WR,Arrested,Assault
+2/17/2016,IND,Montee Ball,LB,Arrested,Assault
+2/13/2016,DEN,Johnny Manziel,S,Arrested,Assault
+2/5/2016,NE,J.J. Worton,RB,Charged,Assault
+1/30/2016,CLE,Armonty Bryant,QB,Indicted,Assault
+1/23/2016,NE,DeAnte Saunders,WR,Arrested,Assault
+12/25/2015,CLE,Justin Blackmon,LB,Arrested,Assault
+12/25/2015,CLE,Derrick Coleman,S,Arrested,Assault
+12/19/2015,JAC,Dorian Green-Beckham,LB,Arrested,Assault
+10/15/2015,SEA,Ahmad Brooks,FB,Arrested,Assault
+9/30/2015,TEN,Aldon Smith,WR,Arrested,Assault
+8/26/2015,SF,Stephen Hill,LB,Indicted,Assault
+8/6/2015,SF,Justin Cox,LB,Arrested,Assault
+7/28/2015,CAR,Justin Hunter,WR,Cited,Assault
+7/20/2015,KC,Sheldon Richardson,DB,Arrested,Assault
+7/20/2015,TEN,Josh Brown,WR,Surrendered,Assault
+7/14/2015,NYJ,Andrew Quarless,DE,Arrested,Assault
+7/13/2015,NYG,Brandon Ivory,K,Arrested,Assault
+7/4/2015,GB,Brandon Spikes,TE,Arrested,Assault
+7/1/2015,HOU,Prince Shembo,DT,Arrested,Assault
+6/7/2015,NE,Ray McDonald,LB,Charged,Assault
+5/29/2015,ATL,Rodney Austin,LB,Arrested,Assault
+5/25/2015,CHI,Brian Dixon,DT,Arrested,Assault
+5/22/2015,NYG,Bernard Pierce,K,Arrested,Assault
+4/17/2015,DET,Antwon Blake,OG,Arrested,Assault
+3/29/2015,NO,Alex Okafor,CB,Arrested,Assault
+3/18/2015,BAL,Jarrett Bush,RB,Arrested,Assault
+3/15/2015,PIT,Victor Hampton,CB,Arrested,Assault
+3/9/2015,ARI,Nate Allen,LB,Arrested,Assault
+3/5/2015,SF,Ahmad Bradshaw,FB,Arrested,Assault
+3/1/2015,GB,Joseph Randle,CB,Arrested,Assault
+3/1/2015,BAL,DQwell Jackson,CB,Arrested,Assault
+2/16/2015,PHI,Letroy Guion,S,Arrested,Assault
+2/5/2015,IND,Terrence Cody,RB,Cited,Assault
+2/4/2015,DAL,Bobby Massie,RB,Arrested,Assault
+2/3/2015,IND,Andrew Jackson,LB,Arrested,Assault
+2/3/2015,GB,Datone Jones,DT,Arrested,Assault
+2/2/2015,BAL,Josh McNary,DT,Indicted,Assault
+1/31/2015,ARI,Oday Aboushi,OT,Arrested,Assault
+1/23/2015,IND,Chris Johnson,LB,Arrested,Assault
+1/19/2015,GB,Tim Jennings,DE,Cited,Assault
+1/14/2015,IND,Junior Galette,LB,Arrested,Assault
+1/10/2015,NYJ,Jabari Price,OG,Arrested,Assault
+1/9/2015,NYJ,Jermaine Cunningham,RB,Arrested,Assault
+1/7/2015,CHI,Dwayne Gratz,CB,Arrested,Assault
+1/5/2015,NO,Shonn Greene,LB,Arrested,Assault
+12/29/2014,MIN,John Boyett,CB,Arrested,Assault
+12/29/2014,NYJ,Tom Johnson,LB,Arrested,Assault
+11/16/2014,JAC,Derrick Shelby,CB,Arrested,Assault
+10/24/2014,TEN,DaRick Rogers,RB,Arrested,Assault
+10/22/2014,DEN,Jonathan Dwyer,S,Arrested,Assault
+10/13/2014,DAL,Adrian Peterson,RB,Arrested,Assault
+10/5/2014,MIN,Quincy Enunwa,DT,Arrested,Assault
+10/4/2014,MIA,Alan Branch,DE,Arrested,Assault
+9/29/2014,IND,LeVeon Bell,WR,Arrested,Assault
+9/17/2014,ARI,LeGarrette Blount,RB,Arrested,Assault
+9/11/2014,MIN,Bashaud Breeland,RB,Indicted,Assault
+9/4/2014,NYJ,Jo-Lonn Dunbar,WR,Arrested,Assault
+8/30/2014,SF,Keelan Johnson,DE,Arrested,Assault
+8/23/2014,BUF,Jimmy Smith,DT,Arrested,Assault
+8/20/2014,PIT,Jerome Simpson,RB,Arrested,Assault
+8/20/2014,PIT,Josh Gordon,RB,Detained,Assault
+8/11/2014,WAS,John Abraham,CB,Cited,Assault
+7/23/2014,JAC,Cornelius Washington,WR,Arrested,Assault
+7/20/2014,STL,Sean Smith,LB,Arrested,Assault
+7/18/2014,PHI,Marcell Dareus,S,Arrested,Assault
+7/12/2014,BAL,Lorenzo Taliaferro,CB,Arrested,Assault
+7/7/2014,MIN,T.J. Ward,WR,Cited,Assault
+7/5/2014,CLE,Greg Hardy,WR,Arrested,Assault
+6/29/2014,ARI,Josh Morgan,LB,Arrested,Assault
+6/24/2014,IND,Tandon Doss,LB,Charged,Assault
+6/20/2014,CHI,Orson Charles,DE,Arrested,Assault
+6/9/2014,KC,Greg Reid,CB,Arrested,Assault
+5/30/2014,BUF,Chris Culliver,DT,Arrested,Assault
+5/24/2014,BAL,Adewale Ojomo,RB,Arrested,Assault
+5/22/2014,DEN,Jah Reid,S,Warrant,Attempted murder
+5/13/2014,CAR,Kory Sheets,DE,Arrested,Battery
+5/5/2014,BUF,Deonte Thompson,DT,Arrested,Battery
+4/27/2014,CHI,Fred Davis,WR,Warrant,Battery
+4/16/2014,JAC,Roddy White,WR,Arrested,Battery
+4/13/2014,SF,Ray Rice,LB,Arrested,Battery
+3/31/2014,CIN,Daniel Kilgore,FB,Arrested,Battery
+3/29/2014,STL,Davone Bess,CB,Arrested,Battery
+3/28/2014,SF,Akeem Spence,CB,Arrested,Battery
+3/21/2014,TEN,Spencer Ware,DE,Arrested,Battery
+3/9/2014,BAL,Michael Hill,OL,Arrested,Battery
+3/7/2014,OAK,Erin Henderson,RB,Arrested,Battery
+2/21/2014,BAL,Kellen Winslow Jr.,WR,Arrested,Battery
+2/20/2014,WAS,Thomas Keiser,TE,Arrested,Battery
+2/18/2014,ATL,Henry Melton,WR,Arrested,Battery
+2/15/2014,BAL,Will Hill,RB,Arrested,Battery
+1/26/2014,SF,A.J. Jefferson,OG,Arrested,Battery
+1/17/2014,CLE,Jason Snelling,WR,Arrested,Battery
+1/14/2014,TB,Dwayne Bowe,DT,Arrested,Battery
+1/12/2014,SEA,Lequan Jefferson,RB,Arrested,Battery
+1/9/2014,TB,Von Miller,RB,Arrested,Battery
+1/1/2014,MIN,Julius Thomas,LB,Arrested,Breach of peace
+12/30/2013,NYJ,Joe McKnight,TE,Charged,Burglary
+12/29/2013,SD,Eric Wright,LB,Arrested,Burglary
+12/22/2013,CHI,Alfonzo Dennard,DT,Arrested,Burglary
+12/20/2013,NYG,Dan Connor,S,Arrested,Burglary
+11/25/2013,MIN,Joe Lefeged,CB,Arrested,Burglary
+11/19/2013,MIN,Aaron Hernandez,LB,Arrested,Child abuse
+11/15/2013,ATL,Ausar Walcott,FB,Arrested,Child abuse
+11/10/2013,KC,Jason Peters,WR,Arrested,Child support
+11/9/2013,MIN,Evan Rodriguez,WR,Arrested,Child support
+11/1/2013,ARI,Cody Grimm,TE,Arrested,Coercion
+10/9/2013,SF,Joe Morgan,LB,Charged,Criminal mischief
+9/23/2013,CIN,Quentin Saulsberry,CB,Arrested,Criminal mischief
+9/20/2013,SF,Mike Goodson,LB,Arrested,Disorderly conduct
+9/5/2013,DEN,Josh Portis,LB,Cited,Disorderly conduct
+9/2/2013,IND,Daryl Washington,S,Arrested,Disorderly conduct
+8/28/2013,DEN,Claude Davis,TE,Arrested,Disorderly conduct
+8/17/2013,BUF,Cliff Harris,LB,Charged,Disorderly conduct
+8/11/2013,DEN,Rolando McClain,LB,Arrested,Disorderly conduct
+7/30/2013,NYJ,Ronnell Lewis,RB,Arrested,Disorderly conduct
+7/12/2013,TB,William Moore,CB,Arrested,Disorderly conduct
+7/11/2013,NE,Quentin Groves,CB,Arrested,Disorderly conduct
+7/6/2013,NYG,Greg Little,LB,Arrested,Disorderly conduct
+6/29/2013,IND,Amari Spievey,S,Arrested,Disorderly conduct
+6/26/2013,NE,Trumaine Johnson,TE,Arrested,Disorderly conduct
+6/25/2013,CLE,Kaluka Maiava,LB,Arrested,Disorderly conduct
+6/12/2013,PHI,Quinton Carter,OT,Arrested,Disorderly conduct
+6/10/2013,CIN,Javarris James,CB,Arrested,Disorderly conduct
+5/31/2013,CHI,Desmond Bryant,FB,Arrested,Disorderly conduct
+5/30/2013,TB,JMarcus Webb,S,Arrested,Disorderly conduct
+5/29/2013,NO,Brandon Barden,WR,Arrested,Disorderly conduct
+5/19/2013,DEN,Al Netter,C,Arrested,Disorderly conduct
+5/17/2013,NYJ,DaQuan Bowers,RB,Arrested,Disorderly conduct
+5/5/2013,SEA,Michael Boley,QB,Arrested,Disorderly conduct
+5/3/2013,CLE,Moise Fokou,DE,Arrested,Disorderly conduct
+5/3/2013,ARI,Leroy Hill,LB,Arrested,Disorderly conduct
+4/29/2013,NYJ,Jay Ratliff,DE,Arrested,Disorderly conduct
+4/29/2013,NYJ,Andre Smith,CB,Arrested,Disorderly conduct
+4/21/2013,BAL,Chris Rainey,LB,Arrested,Disorderly conduct
+4/20/2013,DET,Robert Sands,LB,Arrested,Disorderly conduct
+4/18/2013,ATL,Josh Brent,S,Arrested,Disorderly conduct
+4/17/2013,CLE,Jovan Belcher,LB,Arrested,Disorderly conduct
+4/13/2013,CLE,Demarcus Dobbs,WR,Charged,Disorderly conduct
+3/26/2013,DET,Jonathan Amaya,S,Arrested,Disorderly conduct
+3/22/2013,STL,Bryan Thomas,CB,Arrested,Disorderly conduct
+3/21/2013,CHI,Ahmad Black,FB,Arrested,Disorderly conduct
+3/17/2013,OAK,Alameda Taamu,LB,Arrested,Disorderly conduct
+3/10/2013,TB,Michael Turner,S,Arrested,Disorderly conduct
+3/9/2013,DEN,John Moffitt,S,Arrested,Disorderly conduct
+3/7/2013,ARI,Chad Johnson,RB,Arrested,Disorderly conduct
+2/24/2013,OAK,Aaron Berry,DT,Arrested,Disorderly conduct
+2/24/2013,CHI,Kenny Britt,OT,Arrested,Disorderly conduct
+2/23/2013,TEN,Donald Washington,TE,Arrested,Disorderly conduct
+2/20/2013,SF,Dez Bryant,OG,Arrested,Disorderly conduct
+2/18/2013,TB,Elvis Dumervil,DE,Arrested,Disorderly conduct
+2/8/2013,Free agent,Marshawn Lynch,LB,Arrested,Disorderly conduct
+2/4/2013,IND,Odrick Ray,LB,Arrested,Disorderly conduct
+1/29/2013,SEA,Robert Quinn,LB,Arrested,Disorderly conduct
+1/22/2013,DAL,Dion Lewis,DT,Arrested,Disorderly conduct
+1/17/2013,CIN,Isaiah Pead,OT,Arrested,Disorderly conduct
+1/10/2013,PIT,Kiante Tripp,RB,Arrested,Disorderly conduct
+1/8/2013,OAK,David Diehl,LB,Arrested,Disorderly conduct
+1/4/2013,CIN,Jerome Felton,S,Arrested,Disorderly conduct
+12/8/2012,DAL,Nick Fairley,DT,Arrested,Disturbing the peace
+12/1/2012,KC,Caleb King,LB,Died,Dogfighting
+11/30/2012,SF,Brandon Meriweather,TE,Arrested,Domestic
+11/26/2012,MIA,Darrius Heyward-Bey,S,Arrested,Domestic dispute
+10/31/2012,NYJ,Koa Misi,LB,Arrested,Domestic dispute
+10/30/2012,TB,Samson Satele,CB,Cited,Domestic violence
+10/14/2012,PIT,Mikel Leshoure,DT,Arrested,Domestic violence
+9/24/2012,ATL,Jarriel King,DE,Arrested,Domestic violence
+9/18/2012,ATL,Nate Collins,RB,Arrested,Domestic violence
+8/25/2012,SEA,J.T. Thomas,OG,Arrested,Domestic violence
+8/11/2012,MIA,Rey Maualuga,WR,Arrested,Domestic violence
+7/21/2012,DET,Knowshon Moreno,CB,Arrested,Domestic violence
+7/20/2012,TEN,Johnny Culbreath,WR,Arrested,Domestic violence
+7/19/2012,KC,Benny Sapp,CB,Arrested,Domestic violence
+7/16/2012,DAL,Sam Hurd,WR,Arrested,Domestic violence
+7/14/2012,DEN,Erik Walden,DE,Arrested,Domestic violence
+7/14/2012,SEA,Lawrence Wilson,RB,Arrested,Domestic violence
+7/13/2012,JAC,Julian Edelman,DE,Arrested,Domestic violence
+7/10/2012,STL,Chris Cook,DE,Arrested,Domestic violence
+7/8/2012,PHI,Ryan McBean,RB,Arrested,Domestic violence
+7/7/2012,MIN,Johnny Jolly,RB,Arrested,Domestic violence
+7/7/2012,STL,Tyrell Johnson,RB,Arrested,Domestic violence
+7/2/2012,TB,Kevin Ogletree,CB,Arrested,Domestic violence
+7/1/2012,CLE,Rhett Bomar,DT,Arrested,Domestic violence
+6/23/2012,DET,Matt Prater,CB,Arrested,Domestic violence
+6/10/2012,NYG,Paul Hubbard,OT,Arrested,Domestic violence
+6/3/2012,JAC,Cedric Benson,WR,Arrested,Domestic violence
+6/2/2012,MIN,Jerry Hughes,FB,Arrested,Domestic violence
+5/27/2012,DET,Marvin White,DT,Arrested,Domestic violence
+4/28/2012,MIN,Hines Ward,RB,Arrested,Domestic violence
+4/26/2012,WAS,Akeem Jordan,S,Arrested,Domestic violence
+4/7/2012,OAK,Corey Williams,WR,Arrested,Domestic violence
+4/3/2012,DET,Brandon Underwood,DT,Arrested,Domestic violence
+3/30/2012,MIA,Raheem Brock,LB,Arrested,Domestic violence
+3/17/2012,Free agent,Garrett Wolfe,C,Arrested,Domestic violence
+3/12/2012,DET,Alex Magee,RB,Cited,Domestic violence
+2/26/2012,SEA,Antwan Applewhite,OT,Arrested,Domestic violence
+2/25/2012,SEA,Albert Haynesworth,LB,Arrested,Domestic violence
+2/23/2012,JAC,Mike Vrabel,DT,Arrested,Domestic violence
+2/18/2012,DET,Louis Murphy,RB,Cited,Domestic violence
+2/13/2012,CHI,Aqib Taliq,LB,Arrested,Domestic violence
+2/8/2012,SF,Bryan McCann,DE,Arrested,Domestic violence
+2/5/2012,CIN,Mario Henderson,LB,Arrested,Domestic violence
+2/1/2012,DEN,Legedu Naanee,RB,Arrested,Domestic violence
+1/27/2012,SF,Michael Bush,LB,Arrested,Domestic violence
+1/23/2012,DET,Everson Griffen,OT,Arrested,Domestic violence
+1/19/2012,CIN,Laurence Maroney,WR,Indicted,Domestic violence
+12/30/2011,MIN,Joe Joseph,CB,Cited,Domestic violence
+12/14/2011,CHI,Sergio Kindle,WR,Arrested,Domestic violence
+11/30/2011,OAK,Kevin Alexander,LB,Arrested,Domestic violence
+11/25/2011,GB,Geno Hayes,LB,Arrested,Domestic violence
+11/2/2011,CAR,Perrish Cox,LB,Arrested,Domestic violence
+11/1/2011,NE,Will Smith,WR,Arrested,Domestic violence
+10/22/2011,MIN,Mike Williams,CB,Arrested,Domestic violence
+10/14/2011,DEN,D.J. Williams,DT,Arrested,Domestic violence
+10/1/2011,GB,Jerramy Stevens,DE,Arrested,Domestic violence
+9/20/2011,MIN,Pat McAfee,S,Arrested,Domestic violence
+9/2/2011,DAL,Dwayne Jarrett,WR,Arrested,Domestic violence
+8/7/2011,MIN,Bret Lockett,QB,Arrested,Domestic violence
+8/2/2011,DEN,Braylon Edwards,K,Arrested,Domestic violence
+7/24/2011,BUF,Fili Moala,WR,Arrested,Domestic violence
+7/17/2011,CIN,Gerard Lawson,RB,Arrested,Domestic violence
+7/17/2011,IND,John Gill,DE,Arrested,Domestic violence
+7/14/2011,CIN,Jerome Murphy,S,Arrested,Domestic violence
+7/10/2011,CIN,Quinton Ganther,CB,Arrested,Domestic violence
+7/9/2011,PIT,Chris Simms,WR,Arrested,Domestic violence
+6/29/2011,TEN,Robaire Smith,WR,Surrendered,Domestic violence
+6/19/2011,PHI,Derrick Morgan,LB,Arrested,Domestic violence
+6/18/2011,DET,Vince Young,DT,Arrested,Domestic violence
+6/16/2011,GB,Phillip Merling,CB,Arrested,Domestic violence
+6/16/2011,SEA,Kevin Ellison,DE,Arrested,Domestic violence
+6/9/2011,IND,Harry Coleman,RB,Arrested,Domestic violence
+6/8/2011,TEN,Mario Urrutia,WR,Arrested,Domestic violence
+5/22/2011,CHI,Ronald Fields,RB,Arrested,Domestic violence
+5/9/2011,TB,Maurice Purify,DE,Arrested,Domestic violence
+5/6/2011,SD,Chris Jennings,LB,Arrested,Domestic violence
+4/26/2011,WAS,Shaun Rogers,DT,Indicted,Domestic violence
+4/19/2011,ATL,Joey Porter,S,Arrested,Domestic violence
+4/12/2011,TEN,Ronnie Brown,WR,Arrested,Domestic violence
+4/4/2011,KC,Spencer Havner,LB,Arrested,Domestic violence
+4/3/2011,OAK,Will Allen,WR,Arrested,Domestic violence
+3/29/2011,TB,Byron Westbrook,CB,Warrant,Domestic violence
+3/26/2011,PHI,Tony McDaniel,OT,Arrested,Domestic violence
+3/25/2011,GB,Deon Anderson,DE,Arrested,Domestic violence
+3/19/2011,DAL,Michael Richardson,CB,Arrested,Domestic violence
+3/17/2011,OAK,Chad Rinehart,OT,Arrested,Domestic violence
+3/12/2011,MIN,Vincent Jackson,CB,Arrested,Domestic violence
+3/4/2011,PHI,Jermaine Phillips,OT,Arrested,Domestic violence
+2/12/2011,SD,Taj Smith,WR,Arrested,Domestic violence
+2/12/2011,OAK,Bobby McCray,RB,Arrested,Domestic violence
+2/9/2011,TEN,Jonathan Babineaux,WR,Charged,Domestic violence
+2/2/2011,WAS,Jon Beason,DT,Charged,Domestic violence
+1/31/2011,MIN,Eric Weems,DE,Arrested,Domestic violence
+1/29/2011,MIN,Marcus Johnson,DE,Arrested,Domestic violence
+1/17/2011,DEN,Jeff Reed,RB,Arrested,Domestic violence
+12/27/2010,WAS,Matt Spaeth,DT,Arrested,Domestic violence
+12/26/2010,BAL,Lance Louis,LB,Arrested,Domestic violence
+12/20/2010,DEN,Will Billingsley,LB,Arrested,Domestic violence
+12/13/2010,TB,Richard Quinn,LB,Arrested,Domestic violence
+12/9/2010,DEN,Shawne Merriman,CB,Arrested,Domestic violence
+11/27/2010,NO,Usama Young,DE,Arrested,Domestic violence
+11/19/2010,TB,Cedric Griffin,WR,Arrested,Domestic violence
+11/13/2010,SEA,Tony Fein,DE,Arrested,Domestic violence
+11/12/2010,DEN,Chris Davis,LB,Arrested,Drugs
+10/24/2010,DEN,Aqib Talib,LB,Arrested,Drugs
+10/23/2010,TB,Juqua Parker,TE,Arrested,Drugs
+10/20/2010,IND,Vonta Leach,P,Arrested,Drugs
+10/5/2010,CAR,Owen Schmitt,WR,Arrested,Drugs
+9/25/2010,NE,Quinn Ojinnaka,DB,Arrested,Drugs
+9/21/2010,NYJ,Randy Starks,WR,Arrested,Drugs
+9/3/2010,IND,Brandon Walker,DT,Arrested,Drugs
+8/8/2010,CLE,Corey McIntyre,DB,Arrested,Drugs
+8/8/2010,IND,Anthony Mix,DT,Arrested,Drugs
+8/7/2010,WAS,Biren Ealy,TE,Arrested,Drugs
+8/4/2010,TEN,Kolomona Kapanui,WR,Cited,Drugs
+7/24/2010,STL,Shaun Phillips,CB,Arrested,Drugs
+7/3/2010,SEA,Donte Whitner,RB,Arrested,Drugs
+7/1/2010,TEN,Leon Hall,QB,Arrested,Drugs
+7/1/2010,CLE,Donte Stallworth,DE/DT,Arrested,Drugs
+6/29/2010,CIN,Cornell Green,RB,Arrested,Drugs
+6/16/2010,TEN,David Macklin,DE,Arrested,Drugs
+6/13/2010,TEN,Matt Jones,QB,Cited,Drugs
+6/12/2010,SF,Brandon Marshall,DE,Arrested,Drugs
+6/10/2010,GB,Gerald Sensabaugh,CB,Arrested,Drugs
+5/26/2010,MIA,Reggie Williams,DE,Arrested,Drugs
+5/24/2010,SD,Darrell Reid,S,Arrested,Drugs
+5/23/2010,NO,Michael Merritt,S,Arrested,Drugs
+5/16/2010,TB,Roderick Green,WR,Arrested,Drugs
+5/8/2010,DEN,Jamal Williams,DT,Arrested,Drugs
+5/7/2010,WAS,Jonathan Dekker,TE,Cited,Drugs
+5/4/2010,CIN,Jonathan Vilma,WR,Arrested,Drugs
+4/17/2010,CLE,Anthony Spencer,RB,Arrested,Drugs
+4/10/2010,SEA,Ko Simpson,LB,Arrested,Drugs
+4/7/2010,WAS,Gary Stills,TE,Arrested,Drugs
+4/1/2010,CLE,Travarous Bain,DT,Arrested,Drugs
+3/27/2010,ARI,Jeremy Bridges,LB,Arrested,Drugs
+3/19/2010,MIA,Plaxico Burress,RB,Arrested,Drugs
+3/13/2010,GB,Shaun Ellis,TE,Arrested,Drugs
+2/20/2010,MIA,Kareem McKenzie,CB,Arrested,Drugs
+2/19/2010,WAS,Larry Johnson,CB,Arrested,Drugs
+2/6/2010,MIA,Santonio Holmes,DT,Arrested,Drugs
+2/2/2010,DAL,Matt McCoy,FB,Arrested,Drugs
+1/30/2010,KC,Danny Ware,CB,Arrested,Drugs
+1/29/2010,CIN,Lawyer Milloy,LB,Arrested,Drugs
+1/18/2010,WAS,Tommy Kelly,OT,Arrested,Drugs
+1/17/2010,SD,Ed Johnson,WR,Arrested,Drugs
+1/15/2010,TEN,Fred Taylor,WR,Arrested,Drugs
+1/10/2010,TB,Ricardo Colclough,S,Arrested,Drugs
+1/1/2010,IND,Jameel Cook,WR,Arrested,Drugs
+12/29/2009,NO,Donte Nicholson,DE,Arrested,Drugs
+12/10/2009,ATL,Willie Andrews,DT,Arrested,Drugs
+11/30/2009,CAR,Derrick Martin,LB,Arrested,Drugs
+11/16/2009,ATL,Jevon Kearse,WR,Arrested,Drugs
+10/27/2009,TB,Geoffrey Pope,OG,Arrested,Drugs
+10/26/2009,CLE,J.J. Arrington,WR,Arrested,Drugs
+10/18/2009,PIT,Daren Stone,K,Arrested,Drugs
+10/18/2009,PIT,Brandon Jones,TE,Cited,Drugs
+10/13/2009,CHI,Ezra Butler,OT,Arrested,Drugs
+10/5/2009,MIA,Charles Grant,CB,Arrested,Drugs
+9/15/2009,IND,Lofa Tatupu,DT,Arrested,Drugs
+9/7/2009,DEN,Darrion Scott,TE,Arrested,Drugs
+9/6/2009,SD,Nick Kaczur,LB,Arrested,Drugs
+8/31/2009,NO,Kalvin Pearson,S,Arrested,Drugs
+8/30/2009,MIN,Kenton Keith,CB,Arrested,Drugs
+8/23/2009,BAL,Rocky Bernard,LB,Arrested,Drugs
+8/21/2009,TEN,Donald Strickland,WR,Arrested,Drugs
+8/20/2009,TB,Reagan Mauia,CB,Arrested,Drugs
+8/5/2009,PHI,Kenny Wright,DE,Arrested,Drugs
+6/28/2009,HOU,Chris Henry,FB,Charged,Drugs
+6/20/2009,SEA,Cedrick Wilson,FB,Arrested,Drugs
+5/26/2009,ATL,Jacoby Jones,OT,Arrested,Drugs
+5/24/2009,MIA,LenDale White,DE,Arrested,Drugs
+5/17/2009,HOU,James Harrison,OG,Arrested,Drugs
+5/14/2009,BUF,Marcus Thomas,FB,Arrested,Drugs
+5/10/2009,HOU,Kevin Faulk,OG,Arrested,Drugs
+5/6/2009,TB,Bryant McKinnie,WR,Arrested,Drugs
+5/3/2009,NO,Andre Hall,WR,Arrested,Drugs
+5/3/2009,NO,Fabian Washington,TE,Arrested,Drugs
+4/25/2009,SD,Jerome Mathis,LB,Cited,Drugs
+4/11/2009,BUF,Roscoe Parrish,DB,Arrested,Drugs
+4/5/2009,CIN,Mike Patterson,CB,Arrested,Drugs
+4/1/2009,CLE,Antonio Pierce,WR,Arrested,Drugs
+3/21/2009,OAK,Adrian Awasom,OT,Arrested,Drugs
+3/13/2009,KC,Matt Roth,CB,Arrested,Drugs
+3/11/2009,WAS,Brent Hawkins,DT,Indicted,Drugs
+3/9/2009,JAC,Daniel Graham,WR,Arrested,Drugs
+3/1/2009,DEN,Gerome Sapp,WR,Arrested,Drugs
+2/14/2009,PIT,Stockar McDougle,K,Cited,Drugs
+2/13/2009,JAC,Dwight Smith,S,Arrested,Drugs
+2/11/2009,BUF,Todd Sauerbrun,RB,Arrested,Drugs
+2/11/2009,JAC,Darrell Hackney,WR,Arrested,Drugs
+2/8/2009,IND,Chester Pitts,DT,Arrested,Drugs
+2/5/2009,KC,Cato June,TE,Arrested,Drugs
+2/2/2009,SF,Justin Durant,LB,Arrested,Drugs
+2/1/2009,SD,Richard Collier,DT,Arrested,Drugs
+1/24/2009,PIT,Claude Terrell,TE,Arrested,Drugs
+1/24/2009,SEA,Brandon Marshalll,LB,Arrested,Drugs
+1/16/2009,NO,Kili Lefotu,LB,Arrested,Drugs
+1/10/2009,DAL,Najeh Davenport,LB,Arrested,Drugs
+1/6/2009,SD,Khalif Barnes,WR,Arrested,Drugs
+1/1/2009,BUF,Leigh Bodden,S,Arrested,Drugs
+12/28/2008,STL,Lance Briggs,LB,Arrested,Drugs
+12/21/2008,JAC,David Boston,CB,Arrested,Drugs
+12/7/2008,CAR,Anthony Hargrove,OG,Arrested,Drugs
+12/1/2008,NYG,Michael Vick,WR,Surrendered,Drugs
+11/29/2008,NYJ,Chris Chambers,DE,Arrested,Drugs
+11/13/2008,NYG,Bryant McNeal,OG,Arrested,Drugs
+10/27/2008,KC,Anthony Waters,RB,Surrendered,Drugs
+10/23/2008,PIT,Kelly Campbell,WR,Arrested,Drugs
+10/18/2008,TB,Claude Wroten,LB,Arrested,Drugs
+9/28/2008,NYG,Fred Evans,RB,Arrested,Drugs
+9/15/2008,ATL,Terry Johnson,S,Arrested,DUI
+9/14/2008,OAK,Nick Barnett,DT,Arrested,DUI
+9/10/2008,IND,Quincy Wilson,DT,Arrested,DUI
+8/30/2008,JAC,Mike Mason,RB,Arrested,DUI
+8/30/2008,CAR,Jimmy Williams,CB,Arrested,DUI
+8/20/2008,HOU,David Kircus,RB,Arrested,DUI
+7/20/2008,TB,Justin Miller,S,Arrested,DUI
+7/10/2008,JAC,A.J. Nicholson,WR,Arrested,DUI
+7/8/2008,GB,Richard Seigler,DE,Arrested,DUI
+6/30/2008,NE,Steve McNair,CB,Arrested,DUI
+6/28/2008,BAL,Ahmad Carroll,CB,Cited,DUI
+6/22/2008,TEN,Ronyell Whitaker,DE,Arrested,DUI
+6/21/2008,NYG,Anthony Davis,CB,Arrested,DUI
+6/18/2008,ARI,Lionel Gates,RB,Arrested,DUI
+6/15/2008,NYG,DAnthony Batiste,RB,Surrendered,DUI
+6/15/2008,ATL,E.J. Kuale,S,Arrested,DUI
+6/13/2008,TEN,Charles Sharon,WR,Arrested,DUI
+6/7/2008,CHI,Deshea Townsend,RB,Arrested,DUI
+5/31/2008,BUF,Dominique Byrd,RB,Charged,DUI
+5/30/2008,JAC,Dominic Rhodes,S,Arrested,DUI
+5/24/2008,SF,Johnathan Joseph,LB,Arrested,DUI
+5/20/2008,NO,Ryan Krause,DE,Indicted,DUI
+5/10/2008,SEA,DeDe Dorsey,LB,Arrested,DUI
+5/3/2008,CHI,Ross Verba,RB,Arrested,DUI
+5/3/2008,ATL,Travis Taylor,LB,Arrested,DUI
+5/1/2008,CIN,Terrance Kiel,LB,Summoned,DUI
+4/30/2008,Free agent,Deltha ONeal,DE,Arrested,DUI
+4/27/2008,NE,Reggie McNeal,OT,Arrested,DUI
+4/26/2008,DET,Cletis Gordon,S,Arrested,DUI
+4/21/2008,IND,Adrian Jones,RB,Arrested,DUI
+4/21/2008,SEA,Antonio Bryant,DT,Arrested,DUI
+4/13/2008,SF,Fred Weary,CB,Arrested,DUI
+4/11/2008,MIA,Marcus Coleman,RB,Arrested,DUI
+4/3/2008,CLE,Robert Reynolds,CB,Arrested,DUI
+3/31/2008,CIN,Markus Curry,WR,Arrested,DUI
+3/19/2008,PIT,Kenoy Kennedy,WR,Arrested,DUI
+3/16/2008,HOU,B.J. Sams,WR,Arrested,DUI
+3/15/2008,TEN,Sam Brandon,RB,Cited,DUI
+3/11/2008,CAR,Jared Allen,WR,Arrested,DUI
+3/8/2008,PIT,Odell Thurman,LB,Arrested,DUI
+3/6/2008,DEN,Steve Foley,WR,Arrested,DUI
+3/1/2008,CLE,Brian Williams,CB,Arrested,DUI
+3/1/2008,DEN,Koren Robinson,DT,Arrested,DUI
+2/26/2008,NE,Barrett Brooks,RB,Summoned,DUI
+2/24/2008,MIN,Eric Steinbach,OT,Arrested,DUI
+2/24/2008,KC,John Gilmore,RB,Charged,DUI
+2/19/2008,DEN,Matthias Askew,RB,Surrendered,DUI
+2/19/2008,OAK,Johnathan Sullivan,CB,Arrested,DUI
+2/18/2008,HOU,Cortland Finnegan,WR,Arrested,DUI
+2/17/2008,BUF,Jammal Brown,WR,Arrested,DUI
+2/16/2008,PHI,Frostee Rucker,DT,Arrested,DUI
+2/13/2008,NYG,Jabar Gaffney,LB,Summoned,DUI
+2/5/2008,NE,Cory Rodgers,CB,Arrested,DUI
+2/1/2008,NYG,Karl Paymah,DE,Arrested,DUI
+2/1/2008,MIA,Ataveus Cash,DE,Arrested,DUI
+1/24/2008,DEN,Keith Traylor,K,Arrested,DUI
+1/14/2008,JAC,Wayne Hunter,DE,Arrested,DUI
+1/11/2008,DEN,Reuben Droughns,TE,Arrested,DUI
+12/29/2007,BAL,Vincent Burns,S,Charged,DUI
+12/28/2007,JAC,Ricky Manning,OT,Arrested,DUI
+12/26/2007,MIN,Jake Plummer,DE,Cited,DUI
+12/13/2007,MIN,Bryce Fisher,S,Cited,DUI
+12/8/2007,DEN,Dhani Jones,P,Cited,DUI
+12/1/2007,DEN,Jimmy Verdon,QB,Arrested,DUI
+11/29/2007,HOU,Trai Essex,OG,Arrested,DUI
+11/19/2007,TB,Damion McIntosh,LB,Arrested,DUI
+11/3/2007,JAC,Greg Wesley,LB,Arrested,DUI
+11/3/2007,JAC,Sean Locklear,OT,Arrested,DUI
+10/23/2007,STL,Terry Glenn,OG,Arrested,DUI
+10/22/2007,DEN,Daunte Culpepper,WR,Arrested,DUI
+10/12/2007,WAS,Fred Smoot,OG,Arrested,DUI
+10/4/2007,PIT,Moe Williams,RB,Arrested,DUI
+9/29/2007,JAC,Lionel Dalton,OT,Arrested,DUI
+9/5/2007,CLE,Fakhir Brown,CB,Arrested,DUI
+8/27/2007,CHI,Derreck Robinson,LB,Charged,DUI
+8/23/2007,TB,Courtney Watson,WR,Arrested,DUI
+8/5/2007,BUF,Torrie Cox,DE,Arrested,DUI
+7/26/2007,CAR,Kevin Williams,OT,Arrested,DUI
+7/17/2007,ATL,Lawrence Tynes,QB,Indicted,DUI
+7/14/2007,MIA,Junior Siavii,WR,Arrested,DUI
+7/5/2007,OAK,Rod Coleman,DE,Arrested,DUI
+7/3/2007,SD,Randy McMichael,LB,Arrested,DUI
+7/3/2007,MIA,Leon Joe,WR,Arrested,DUI
+6/28/2007,STL,Quintin Williams,DT,Arrested,DUI
+6/23/2007,MIA,Nick Harper,DT,Arrested,DUI
+6/22/2007,CHI,Sean Taylor,DT,Arrested,DUI
+6/21/2007,TEN,Kalimba Edwards,CB,Charged,DUI
+6/17/2007,GB,Mike Doss,LB,Arrested,DUI
+6/17/2007,CIN,Tyrone Calico,RB,Arrested,DUI
+6/16/2007,CLE,Ahman Green,WR,Arrested,DUI
+6/2/2007,ATL,Tommy Hendricks,CB,Charged,DUI
+5/20/2007,DEN,Brad Hopkins,WR,Arrested,DUI
+5/20/2007,NYJ,Larry Ned,CB,Arrested,DUI
+5/18/2007,CIN,Tank Williams,LB,Arrested,DUI
+5/10/2007,PIT,Samari Rolle,LB,Arrested,DUI
+5/9/2007,BAL,Frank Walker,QB,Arrested,DUI
+5/5/2007,JAC,David Terrell,CB,Arrested,DUI
+4/19/2007,MIN,Montae Reagor,CB,Arrested,DUI
+4/15/2007,MIN,Willie Middlebrooks,CB,Arrested,DUI
+4/1/2007,TB,Charles Woodson,OT,Arrested,DUI
+3/31/2007,IND,Marques Anderson,DE,Arrested,DUI
+3/29/2007,TB,Bryan Pittman,RB,Arrested,DUI
+3/26/2007,DEN,Joshua Rue,WR,Arrested,DUI
+3/25/2007,CAR,Paul Zukauskas,OG,Arrested,DUI
+3/21/2007,CIN,Matt Schaub,WR,Cited,DUI
+3/19/2007,NO,Jarrod Cooper,LB,Arrested,DUI
+3/19/2007,JAC,Justin Smith,S,Arrested,DUI
+3/18/2007,MIA,Eric Warfield,LB,Arrested,DUI
+3/13/2007,SEA,Marquise Walker,TE,Arrested,DUI
+3/10/2007,JAC,Chris Naeole,WR,Arrested,DUI
+3/4/2007,PIT,Kevin Ware,CB,Arrested,DUI
+3/4/2007,STL,Wendell Bryant,TE,Arrested,DUI
+2/27/2007,ATL,E.J. Henderson,QB,Cited,DUI
+2/20/2007,IND,Mike Nattiel,RB,Arrested,DUI
+2/19/2007,ATL,Steve Farmer,DT,Arrested,DUI
+2/10/2007,MIA,Cliff Crosby,DT,Arrested,DUI
+1/22/2007,CIN,Brock Marion,CB,Arrested,DUI
+1/6/2007,SD,Jay Bellamy,TE,Arrested,DUI
+1/3/2007,IND,Leonard Little,RB,Arrested,DUI
+1/2/2007,DET,Corey Fuller,OG,Arrested,DUI
+1/1/2007,MIN,Ty Law,WR,Arrested,DUI
+12/18/2006,SD,Ellis Wyms,S,Cited,DUI
+12/14/2006,CHI,Joseph Jefferson,DT,Arrested,DUI
+12/9/2006,CIN,Joe Johnson,CB,Arrested,DUI
+12/4/2006,STL,David Tyree,TE,Arrested,DUI
+12/3/2006,CIN,Jamal Lewis,WR,Arrested,DUI
+11/27/2006,SD,Jason Gesser,CB,Arrested,DUI
+11/25/2006,NYJ,Levi Jones,OT,Arrested,DUI
+11/19/2006,SF,Jeff Garcia,WR,Arrested,DUI
+11/14/2006,HOU,James Lynch,C,Arrested,DUI
+11/11/2006,DAL,Kenny Mixon,S,Arrested,DUI
+11/10/2006,JAC,William Green,OT,Arrested,DUI
+11/5/2006,BUF,T.J. Slaughter,S,Arrested,DUI
+10/26/2006,TEN,Kenyatta Jones,CB,Cited,DUI
+10/26/2006,TEN,Juran Bolden,LB,Arrested,DUI
+10/22/2006,JAC,Rabih Abdullah,DE,Arrested,DUI
+10/9/2006,SD,Sebastian Janikowski,CB,Arrested,DUI
+10/6/2006,DET,Matt Wilhelm,S,Arrested,DUI
+10/3/2006,BAL,Rodney Wright,WR,Arrested,DUI
+9/27/2006,DEN,Leonardo Carson,S,Surrendered,DUI
+9/26/2006,KC,Chris McAlister,DE,Arrested,DUI
+9/26/2006,SD,Daryl Gardener,S,Arrested,DUI
+9/25/2006,CIN,Justin Seaverns,LB,Arrested,DUI
+9/3/2006,SD,Russell Newman,LB,Arrested,DUI
+9/2/2006,JAC,Dwayne Carswell,CB,Arrested,DUI
+8/26/2006,MIN,Dennis McKinley,S,Arrested,DUI
+8/25/2006,TEN,Michael Pittman,CB,Arrested,DUI
+8/15/2006,MIN,Jermaine Haley,WR,Arrested,DUI
+8/12/2006,TEN,Keith Hamilton,DT,Surrendered,DUI
+8/6/2006,PIT,Ramon Walker,OT,Arrested,DUI
+8/5/2006,CIN,Bruce Smith,OG,Arrested,DUI
+7/22/2006,CHI,Kenyatta Walker,TE,Arrested,DUI
+7/22/2006,CIN,Jason Gildon,DT,Arrested,DUI
+6/25/2006,NE,Peppi Zellner,DT,Arrested,DUI
+6/23/2006,TEN,Dwayne Goodrich,CB,Arrested,DUI
+6/22/2006,NO,Damon Moore,OT,Arrested,DUI
+6/21/2006,CIN,John Mobley,DE,Charged,DUI
+6/20/2006,PHI,Lamar Smith,WR,Charged,DUI
+6/19/2006,PIT,Steve Smith,WR,Arrested,DUI
+6/14/2006,CIN,Chris Terry,WR,Surrendered,DUI
+6/13/2006,IND,Victor Riley,LB,Arrested,DUI
+6/12/2006,SD,Deuce McAllister,WR,Arrested,DUI
+6/3/2006,CIN,Cosey Coleman,WR,Arrested,DUI
+6/1/2006,CIN,Bryan Robinson,LB,Charged,DUI
+5/27/2006,PIT,Darren Hambrick,WR,Arrested,DUI
+5/26/2006,GB,Lew Bush,WR,Arrested,DUI
+5/26/2006,DEN,Randy Moss,CB,Arrested,DUI
+5/18/2006,WAS,Deveren Johnson,WR,Arrested,DUI
+5/16/2006,MIA,Willie Roaf,DT,Arrested,DUI
+5/13/2006,SEA,Darrell Russell,OT,Arrested,DUI
+5/12/2006,TEN,Derrick Rodgers,DT,Surrendered,DUI
+5/12/2006,CLE,Charlie Rogers,RB,Arrested,DUI
+5/12/2006,IND,Marvel Smith,DT,Arrested,DUI
+5/11/2006,KC,Aaron Beasley,DE,Arrested,DUI
+4/23/2006,CHI,Mike Rumph,CB,Arrested,DUI
+4/21/2006,SD,Sheldon Jackson,LB,Arrested,DUI
+4/20/2006,DEN,Ricky Williams,QB,Charged,DUI
+4/14/2006,SD,Chris Sullivan,LB,Arrested,DUI
+4/11/2006,SEA,Jeremy Newberry,DE,Arrested,DUI
+3/26/2006,PHI,Vinny Sutherland,LB,Charged,DUI
+3/23/2006,TEN,Yusuf Scott,CB,Charged,DUI
+3/19/2006,NO,Muhsin Muhammad,DE,Arrested,DUI
+3/18/2006,NO,Jeff Graham,WR,Arrested,DUI
+2/18/2006,PIT,Albert Connell,OT,Arrested,DUI
+2/17/2006,GB,Bobby Hamilton,CB,Arrested,DUI
+2/15/2006,MIA,Neil Rackers,OT,Arrested,DUI
+2/12/2006,CHI,O.J. Santiago,DT,Arrested,DUI
+2/6/2006,TEN,Gerard Warren,CB,Arrested,DUI
+1/28/2006,CIN,Lamar Chapman,WR,Arrested,DUI
+1/19/2006,KC,Mike Sellers,S,Arrested,DUI
+1/15/2006,SEA,Terrence Carroll,OT,Arrested,DUI
+1/9/2006,JAC,Travis Henry,WR,Arrested,DUI
+12/30/2005,DAL,Ray Thompson,WR,Cited,DUI
+12/15/2005,MIN,Damien Robinson,OT,Charged,DUI
+12/15/2005,CIN,Cornell Brown,WR,Arrested,DUI
+12/15/2005,MIN,Eddie Kennison,QB,Charged,DUI
+12/15/2005,MIN,Vaughn Booker,CB,Charged,DUI
+12/15/2005,MIN,Tom Barndt,RB,Charged,DUI
+11/25/2005,KC,R. Jay Soward,DT,Arrested,DUI
+11/9/2005,NO,Stacey Mack,CB,Arrested,DUI
+11/1/2005,CLE,Paul Edinger,RB,Arrested,DUI
+10/31/2005,SD,Aaron Gibson,DE,Arrested,DUI
+10/26/2005,NO,Michael Hawthorne,LB,Arrested,DUI
+9/26/2005,MIN,Ben Kelly,OT,Arrested,DUI
+9/26/2005,MIN,Alex Ardley,OG,Arrested,DUI
+9/23/2005,DEN,Jeremiah Parker,LB,Arrested,DUI
+9/13/2005,TB,John Capel,CB,Arrested,DUI
+9/12/2005,KC,Leon Searcy,RB,Charged,DUI
+8/28/2005,MIN,Jeremiah Pharms,DT,Arrested,DUI
+8/17/2005,KC,Thomas Hamner,K,Arrested,DUI
+8/15/2005,BAL,Adrian Klemm,WR,Arrested,DUI
+8/14/2005,KC,Akili Smith,S,Arrested,DUI
+8/14/2005,KC,Tremain Mack,DT,Arrested,DUI
+7/15/2005,ATL,John Davis,DT,Arrested,DUI
+7/13/2005,TEN,Brian Griese,CB,Surrendered,DUI
+7/10/2005,MIA,Joey Galloway,TE,Arrested,DUI
+7/4/2005,DEN,Dana Stubblefield,S,Arrested,DUI
+6/30/2005,ARI,Corey Dillon,LB,Arrested,DUI
+6/25/2005,DET,Andre Rison,WR,Arrested,DUI
+6/23/2005,MIA,Darren Perry,S,Arrested,DUI
+6/11/2005,CHI,Bill Romanowski,DT,Arrested,DUI
+6/4/2005,IND,Darnell McDonald,CB,Arrested,DUI
+6/4/2005,WAS,Darnay Scott,S,Arrested,DUI
+5/29/2005,DET,Patrick Surtain,DE,Arrested,DUI
+5/29/2005,IND,Marco Rivera,S,Arrested,DUI
+5/20/2005,CLE,Tony Hutson,TE,Cited,DUI
+5/12/2005,TEN,Mark Chmura,WR,Cited,DUI
+5/6/2005,SEA,DeMond Parker,WR,Arrested,DUI
+4/25/2005,GB,Chris Walsh,RB,Arrested,DUI
+3/18/2005,JAC,Solomon Page,LB,Arrested,DUI
+3/14/2005,TEN,Mario Bates,OT,Arrested,DUI
+3/4/2005,ARI,Tamarick Vanover,RB,Arrested,DUI
+3/1/2005,TB,Benji Olson,S,Arrested,Eluding police
+2/24/2005,MIN,Keith Elias,WR,Arrested,Evading arrest
+2/17/2005,TEN,Wayne Chrebet,S,Arrested,Evading police
+2/14/2005,TEN,Fred Lane,CB,Arrested,Failure to Appear
+2/4/2005,NYG,Ray Lewis,CB,Arrested,Failure to appear
+1/21/2005,CHI,Rod Smith,WR,Arrested,Failure to appear
